@@ -25,13 +25,13 @@ ek_optical
 
 1. 在webapp目录下运行npm run buildprod，将前端文件进行打包。
 2. 在项目ek_optical下运行 python setup.py package ，将项目进行打包。
-3. 将打包的项目文件传送到服务器端，使用scp -i optical.pem optical-dist-0+workingcopy.tgz root@94.74.104.239:~/
-4. systemctl stop nginx 停止nginx代理
+3. 将打包的项目文件传送到服务器端，使用scp -i wmu.pem optical-dist-0+workingcopy.tgz wmu@eyediseases.bio-data.cn:~/
+4. sudo systemctl stop nginx 停止nginx代理
 5. tsrunit deploy optical optical-dist-0+workingcopy.tgz 解压到optical用户下
 6. tstool ek manage db upgrade 升级当前数据库。
 7. tsrunit start ek disco_server 运行当前后端程序（后端部署已完成）
 8. lesslog ek disco_server log查看当前后端运行日志 如需退出按q
-9. systemctl start nginx 启动nginx代理
+9. sudo systemctl start nginx 启动nginx代理
 
 =======
 三、维护
