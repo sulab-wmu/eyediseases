@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#
+# Copyright (c) 2018-2021 Beijing Ekitech Co., Ltd.
+# All rights reserved.
+#
+
+. /usr/local/libexec/ts_service_wrapper optical optical_server/log
+#exec setuidgid ek multilog s16777215 n20 $TS_SERVICE_RUN
+exec chpst -u optical svlogd $TS_SERVICE_RUN

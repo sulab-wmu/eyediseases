@@ -1,0 +1,17 @@
+{
+  "run_as": {
+    "uid": "600",
+    "gid": "600",
+    "uname": "ek",
+    "gname": "ek"
+  },
+  "types": {
+    "python": {
+      "bootstrap_packages": [
+        "pip==19.2.1",
+        "setuptools==41.0.1",
+        "wheel==0.33.4"
+      ]
+    }
+  }
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "value": "Acute anterior uveitis (with or without ankylosing spondylitis)",
+    "label": "Acute anterior uveitis (with or without ankylosing spondylitis)"
+  },
+  {
+    "value": "Acute anterior uveitis in ankylosing spondylitis",
+    "label": "Acute anterior uveitis in ankylosing spondylitis"
+  },
+  {
+    "value": "Advanced age-related macular degeneration",
+    "label": "Advanced age-related macular degeneration"
+  },
+  {
+    "value": "Adverse response to antithyroid drugs in Graves disease",
+    "label": "Adverse response to antithyroid drugs in Graves disease"
+  },
+  {
+    "value": "Age-related cataracts",
+    "label": "Age-related cataracts"
+  },
+  {
+    "value": "Age-related cataracts (age at onset)",
+    "label": "Age-related cataracts (age at onset)"
+  },
+  {
+    "value": "Age-related macular degeneration",
+    "label": "Age-related macular degeneration"
+  },
+  {
+    "value": "Age-related macular degeneration (choroidal neovascularisation)",
+    "label": "Age-related macular degeneration (choroidal neovascularisation)"
+  },
+  {
+    "value": "Age-related macular degeneration (geographic atrophy)",
+    "label": "Age-related macular degeneration (geographic atrophy)"
+  },
+  {
+    "value": "Age-related macular degeneration (wet)",
+    "label": "Age-related macular degeneration (wet)"
+  },
+  {
+    "value": "Age-related nuclear cataracts",
+    "label": "Age-related nuclear cataracts"
+  },
+  {
+    "value": "Aplasia of lacrimal and salivary glands",
+    "label": "Aplasia of lacrimal and salivary glands"
+  },
+  {
+    "value": "Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)",
+    "label": "Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)"
+  },
+  {
+    "value": "Behcet disease",
+    "label": "Behcet disease"
+  },
+  {
+    "value": "Behcet's disease",
+    "label": "Behcet's disease"
+  },
+  {
+    "value": "Cataract",
+    "label": "Cataract"
+  },
+  {
+    "value": "Cataracts in type 2 diabetes",
+    "label": "Cataracts in type 2 diabetes"
+  },
+  {
+    "value": "Chlamydia trachomatis seropositivity",
+    "label": "Chlamydia trachomatis seropositivity"
+  },
+  {
+    "value": "choroidal neovascularization",
+    "label": "choroidal neovascularization"
+  },
+  {
+    "value": "Corneal astigmatism",
+    "label": "Corneal astigmatism"
+  },
+  {
+    "value": "Diabetic macular edema in type 2 diabetes",
+    "label": "Diabetic macular edema in type 2 diabetes"
+  },
+  {
+    "value": "Diabetic retinopathy",
+    "label": "Diabetic retinopathy"
+  },
+  {
+    "value": "Diabetic retinopathy (all NPDR and PDR)",
+    "label": "Diabetic retinopathy (all NPDR and PDR)"
+  },
+  {
+    "value": "Diabetic retinopathy in type 2 diabetes",
+    "label": "Diabetic retinopathy in type 2 diabetes"
+  },
+  {
+    "value": "Disease progression in age-related macular degeneration",
+    "label": "Disease progression in age-related macular degeneration"
+  },
+  {
+    "value": "Disease progression in age-related macular degeneration (adjusted for baseline)",
+    "label": "Disease progression in age-related macular degeneration (adjusted for baseline)"
+  },
+  {
+    "value": "Disease progression to choroidal neovascularization form in age-related macular degeneration",
+    "label": "Disease progression to choroidal neovascularization form in age-related macular degeneration"
+  },
+  {
+    "value": "Disease severity in uveal melanoma (TNM stage 3 or 4 vs TNM stage 1 or 2)",
+    "label": "Disease severity in uveal melanoma (TNM stage 3 or 4 vs TNM stage 1 or 2)"
+  },
+  {
+    "value": "Exfoliation glaucoma or exfoliation syndrome",
+    "label": "Exfoliation glaucoma or exfoliation syndrome"
+  },
+  {
+    "value": "Exudative age-related macular degeneration",
+    "label": "Exudative age-related macular degeneration"
+  },
+  {
+    "value": "Fuchs' endothelial corneal dystrophy",
+    "label": "Fuchs' endothelial corneal dystrophy"
+  },
+  {
+    "value": "Fuchs's corneal dystrophy",
+    "label": "Fuchs's corneal dystrophy"
+  },
+  {
+    "value": "Glaucoma",
+    "label": "Glaucoma"
+  },
+  {
+    "value": "Glaucoma (exfoliation)",
+    "label": "Glaucoma (exfoliation)"
+  },
+  {
+    "value": "Glaucoma (high intraocular pressure)",
+    "label": "Glaucoma (high intraocular pressure)"
+  },
+  {
+    "value": "",
+    "label": "Glaucoma (low intraocular pressure)"
+  },
+  {
+    "value": "Glaucoma (low intraocular pressure)",
+    "label": "Glaucoma (primary angle closure)"
+  },
+  {
+    "value": "Glaucoma (primary open-angle)",
+    "label": "Glaucoma (primary open-angle)"
+  },
+  {
+    "value": "Hyperopia",
+    "label": "Hyperopia"
+  },
+  {
+    "value": "keratitis",
+    "label": "keratitis"
+  },
+  {
+    "value": "keratoconus",
+    "label": "keratoconus"
+  },
+  {
+    "value": "Laterality in neovascular age-related macular degeneration",
+    "label": "Laterality in neovascular age-related macular degeneration"
+  },
+  {
+    "value": "lens dislocation",
+    "label": "lens dislocation"
+  },
+  {
+    "value": "Macular degeneration, age-related",
+    "label": "Macular degeneration, age-related"
+  },
+  {
+    "value": "Medication use (antiglaucoma preparations and miotics)",
+    "label": "Medication use (antiglaucoma preparations and miotics)"
+  },
+  {
+    "value": "myopia",
+    "label": "myopia"
+  },
+  {
+    "value": "Myopia (age of diagnosis)",
+    "label": "Myopia (age of diagnosis)"
+  },
+  {
+    "value": "Myopia (pathological)",
+    "label": "Myopia (pathological)"
+  },
+  {
+    "value": "Myopia (severe)",
+    "label": "Myopia (severe)"
+  },
+  {
+    "value": "Myopic maculopathy",
+    "label": "Myopic maculopathy"
+  },
+  {
+    "value": "Neovascular age-related macular degeneration",
+    "label": "Neovascular age-related macular degeneration"
+  },
+  {
+    "value": "Open-angle glaucoma and optic cup area",
+    "label": "Open-angle glaucoma and optic cup area"
+  },
+  {
+    "value": "Open-angle glaucoma and vertical cup-disc ratio",
+    "label": "Open-angle glaucoma and vertical cup-disc ratio"
+  },
+  {
+    "value": "Proliferative diabetic retinopathy",
+    "label": "Proliferative diabetic retinopathy"
+  },
+  {
+    "value": "Proliferative diabetic retinopathy (vs NPDR and no DR)",
+    "label": "Proliferative diabetic retinopathy (vs NPDR and no DR)"
+  },
+  {
+    "value": "Proliferative diabetic retinopathy in type 2 diabetes",
+    "label": "Proliferative diabetic retinopathy in type 2 diabetes"
+  },
+  {
+    "value": "proliferative vitreoretinopathy",
+    "label": "proliferative vitreoretinopathy"
+  },
+  {
+    "value": "pterygium",
+    "label": "pterygium"
+  },
+  {
+    "value": "Refractive astigmatism",
+    "label": "Refractive astigmatism"
+  },
+  {
+    "value": "Refractive error",
+    "label": "Refractive error"
+  },
+  {
+    "value": "Response to ranibizumab in age-related macular degeneration (exudative)",
+    "label": "Response to ranibizumab in age-related macular degeneration (exudative)"
+  },
+  {
+    "value": "retinal degeneration",
+    "label": "retinal degeneration"
+  },
+  {
+    "value": "retinal detachment",
+    "label": "retinal detachment"
+  },
+  {
+    "value": "retinal neovascularization",
+    "label": "retinal neovascularization"
+  },
+  {
+    "value": "retinitis",
+    "label": "retinitis"
+  },
+  {
+    "value": "Retinopathy of prematurity",
+    "label": "Retinopathy of prematurity"
+  },
+  {
+    "value": "Rhegmatogenous retinal detachment",
+    "label": "Rhegmatogenous retinal detachment"
+  },
+  {
+    "value": "Severe diabetic retinopathy in type 2 diabetes",
+    "label": "Severe diabetic retinopathy in type 2 diabetes"
+  },
+  {
+    "value": "Sight-threatening diabetic retinopathy in type 2 diabetes",
+    "label": "Sight-threatening diabetic retinopathy in type 2 diabetes"
+  },
+  {
+    "value": "Spherical equivalent or myopia (age of diagnosis)",
+    "label": "Spherical equivalent or myopia (age of diagnosis)"
+  },
+  {
+    "value": "Strabismus",
+    "label": "Strabismus"
+  },
+  {
+    "value": "Thyrotoxic hypokalemic periodic paralysis and Graves disease",
+    "label": "Thyrotoxic hypokalemic periodic paralysis and Graves disease"
+  },
+  {
+    "value": "Uveal melanoma",
+    "label": "Uveal melanoma"
+  },
+  {
+    "value": "Vogt-Koyanagi-Harada syndrome",
+    "label": "Vogt-Koyanagi-Harada syndrome"
+  }
+]

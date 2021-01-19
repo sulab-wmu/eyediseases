@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+# Copyright (c) 2018-2021 Beijing Ekitech Co., Ltd.
+# All rights reserved.
+#
+
+export DEBUG_PORT=20100
+
+. /usr/local/libexec/ts_service_wrapper optical optical_server
+
+exec chpst -u optical $TS_APP_HOME/bin/run_server.sh

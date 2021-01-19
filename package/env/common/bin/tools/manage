@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# Copyright (c) 2018-2021 Beijing Ekitech Co., Ltd.
+# All rights reserved.
+#
+
+cd $TS_APP_HOME/app
+exec $TS_APP_HOME/bin/run_python.sh  $TS_APP_HOME/app/manage.py "$@"
